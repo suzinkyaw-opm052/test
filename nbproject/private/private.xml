@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/blog/resources/views/projects/show.blade.php</file>
+            <file>file:/C:/xampp/htdocs/blog/.env</file>
+            <file>file:/C:/xampp/htdocs/blog/app/Project.php</file>
+            <file>file:/C:/xampp/htdocs/blog/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/blog/database/seeds/ProjectsTableSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/blog/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/blog/resources/views/tasks/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/blog/resources/views/projects/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/blog/database/migrations/2017_05_15_create_projects_and_tasks_tables.php</file>
+            <file>file:/C:/xampp/htdocs/blog/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/blog/app/Task.php</file>
+            <file>file:/C:/xampp/htdocs/blog/resources/views/tasks/show.blade.php</file>
+            <file>file:/C:/xampp/htdocs/blog/app/Http/Controllers/ProjectsController.php</file>
+            <file>file:/C:/xampp/htdocs/blog/resources/views/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/blog/app/Http/Controllers/TasksController.php</file>
+            <file>file:/C:/xampp/htdocs/blog/composer.json</file>
+        </group>
+    </open-files>
+</project-private>
